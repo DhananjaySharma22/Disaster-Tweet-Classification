@@ -1,4 +1,8 @@
 # Disaster-Tweet-Classification
+Open in Google Colab 🚀
+Use The Free GPU to Run
+Click the link below to open and run this project in Google Colab:
+Open in Colab
 
 ## Introduction
 This project focuses on classifying tweets as disaster-related or not using Natural Language Processing (NLP) and deep learning techniques. The goal is to enhance the efficiency of identifying critical information in social media posts for emergency response teams. The study implements various machine learning and deep learning models to evaluate their effectiveness in tweet classification.
