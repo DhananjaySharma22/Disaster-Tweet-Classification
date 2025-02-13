@@ -1,6 +1,6 @@
 # Disaster-Tweet-Classification
 ## Open in Google Colab 🚀
-Use The Free GPU to Run
+Use The Free GPU to Run,
 Click the link below to open and run this project in Google Colab:
 [Open in Colab](https://colab.research.google.com/)
 
@@ -21,7 +21,7 @@ To improve classification accuracy, the following preprocessing steps were appli
 Initially, various machine learning algorithms were applied in the machine learning model to determine their effectiveness. The results provided insights into feature importance and baseline accuracy for tweet classification.
 
 ### 3. Deep Learning Model
-A deep learning model was developed using Feedforward Neural Networ with the following layers:
+A deep learning model was developed using Feedforward Neural Network with the following layers:
 - **Embedding Layer:** Converts words into vector representations.
 - **GlobalAveragePooling1D Layer:** Reduces dimensionality while preserving key features.
 - **Dense Layers with ReLU Activation:** Enhances feature learning.
@@ -35,8 +35,8 @@ Hyperparameter tuning was performed to optimize performance, adjusting parameter
 - Learning rate
 - Dropout rate
 
-### 5. BERT-based Pretrained Model
-To further improve classification accuracy, the same dataset was processed using a pretrained BERT model. This approach leverages transfer learning for better contextual understanding and performance comparison with the deep learning model.
+### 5. BERT-based Pre-trained Model
+To further improve classification accuracy, the same dataset was processed using a pre-trained BERT model. This approach leverages transfer learning for better contextual understanding and performance comparison with the deep learning model.
 
 ## Model Evaluation
 Performance was assessed using:
