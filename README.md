@@ -1,7 +1,7 @@
 # Disaster-Tweet-Classification
-Open in Google Colab 🚀
-Use The Free GPU to Run
-Click the link below to open and run this project in Google Colab:
+#Open in Google Colab 🚀
+#Use The Free GPU to Run
+#Click the link below to open and run this project in Google Colab:
 Open in Colab
 
 ## Introduction
